@@ -1,2 +1,2 @@
 pagweb-chiarelli-1a
-Trabalhando o HTML/CSS
+Utilizando a línguagem no HTML e CSS
